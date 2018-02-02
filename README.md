@@ -30,7 +30,7 @@
  - `<NAME>Service.java` - for service class
  - `<NAME>Receiver.java` - for broadcast receiver class
  - `<NAME>Utils.java` - for utility class
- - `<NAME>.java` - for custom view class
+ - `<NAME>.java` - for custom view class 
 
 ## Short Name of Android Widgets
 
@@ -130,6 +130,9 @@
  - `merge_<MERGE_NAME>.xml` - for `<merge>` Tag **only**
  - `widget_<WIDGET_NAME>.xml` - for custom view
  - `appwidget_<APPWIDGET_NAME>.xml` - for app widget
+  
+## Naming Convention for IDs
+ - `<LAYOUT_FILE_NAME>_<WIGET_SHORT_NAME>` - for wiget ids in layout
 
 ## XML Files (res/menu)
 
