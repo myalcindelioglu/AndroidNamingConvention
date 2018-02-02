@@ -132,7 +132,7 @@
  - `appwidget_<APPWIDGET_NAME>.xml` - for app widget
   
 ## Naming Convention for IDs
- - `<LAYOUT_FILE_NAME>_<WIGET_SHORT_NAME>` - for wiget ids in layout
+ - `<LAYOUT_FILE_NAME>_<DESCRIPTION>_<WIGET_SHORT_NAME>` - for wiget ids in layout
 
 ## XML Files (res/menu)
 
