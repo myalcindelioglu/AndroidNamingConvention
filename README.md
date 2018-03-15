@@ -88,6 +88,7 @@
  - `vdv` - VideoView
  - `vf` - ViewFlipper
  - `vsw` - ViewSwitcher
+ - `vp` - ViewPager
 
 ## Naming Convention for Image Files
 > See this [Android-Cheatsheet-For-Graphic-Designers#Naming Convention][2]
